@@ -1,0 +1,8 @@
+whois
+requests
+socket
+argparse
+tldextract
+dns
+urljoin
+BeautifulSoup
